@@ -25,8 +25,7 @@ This dashboard provides key financial insights using **DAX measures and calculat
 - **DAX (Data Analysis Expressions)** for custom calculations.  
 - **Excel/SQL** for data preprocessing.  
 
-## 📷 Dashboard Preview  
-![Dashboard Screenshot](image.png)  
+
 
 ## 🚀 How to Use  
 1. Load the dataset containing **Date, Category, Budget, Actual Expense, Profit/Loss, and Profit %**.  
